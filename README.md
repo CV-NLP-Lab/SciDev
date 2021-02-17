@@ -18,9 +18,8 @@ torchvision и torchaudio не нужны
 
 ## Tutorial
 
-[Pytorch](https://pytorch.org/tutorials/beginner/deep_learning_60min_blitz.html)
-[Numpy](https://cs231n.github.io/python-numpy-tutorial/)
-
+- [Pytorch](https://pytorch.org/tutorials/beginner/deep_learning_60min_blitz.html)
+- [Numpy](https://cs231n.github.io/python-numpy-tutorial/)
 
 ## Документация для используемых инструментов и библиотек
 - [IPython](https://ipython.readthedocs.io/en/stable/)
@@ -32,5 +31,3 @@ torchvision и torchaudio не нужны
 - [sklearn](https://scikit-learn.org/stable/modules/classes.html)
 - [matplotlib](https://matplotlib.org/3.1.1/api/_as_gen/matplotlib.pyplot.html)
 - [tqdm](https://github.com/tqdm/tqdm#usage)
-
-## Запуск Jupyter Lab

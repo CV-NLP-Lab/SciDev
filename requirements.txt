@@ -58,6 +58,8 @@ pywin32==300
 pywinpty==0.5.7
 pyzmq==21.0.1
 requests==2.25.1
+scikit-image==0.18.1
+scikit-learn==0.24.1
 Send2Trash==1.5.0
 six==1.15.0
 sniffio==1.2.0
